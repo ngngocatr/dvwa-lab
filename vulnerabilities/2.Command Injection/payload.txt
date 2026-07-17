@@ -1,0 +1,17 @@
+;
+&&
+||
+$(command)
+``
+%0a (\n)
+%0d (\r)
+nslookup 
+ping 
+dig 
+wget 
+curl 
+sleep
+
+https://hackviser.com/tactics/pentesting/web/command-injection
+
+https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Command%20Injection
